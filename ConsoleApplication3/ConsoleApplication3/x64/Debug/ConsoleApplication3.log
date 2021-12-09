@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+D:\projects\WorldInformationResources\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(147,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\projects\WorldInformationResources\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(164,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication3.vcxproj -> D:\projects\WorldInformationResources\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe

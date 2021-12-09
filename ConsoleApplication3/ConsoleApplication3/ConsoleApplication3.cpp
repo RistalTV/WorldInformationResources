@@ -148,6 +148,7 @@ int main() {
 
 	cout << "Введите кол-во строк: "; cin >> NUM; 
 	cout << "Введите МАКС возможную длину строки: "; cin >> MAXLEN; cout << '\n';
+	MAXLEN = 10;
 
 	for (int i = 0; i < NUM; i++) {
 		LEN = 1 + rand() % MAXLEN;
