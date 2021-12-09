@@ -31,4 +31,7 @@ def LCS_HIRSHBERG(x, y):
 
 
 if __name__ == '__main__':
-    print(LCS_HIRSHBERG(list(input("Введите первое слово: ")), list(input("\nВведите первое слово: "))))
+    word1 = input("\n\nВведите первое слово: ")
+    word2 = input("Введите второе слово: ")
+    print("\nНайдено слово: ")
+    print(LCS_HIRSHBERG(list(word1), list(word2)))
